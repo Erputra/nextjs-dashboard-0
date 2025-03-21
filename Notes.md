@@ -103,4 +103,10 @@ Kita bisa menambahkan layout.tsx untuk memberikan layout khusus pada halaman /bl
 ✅ Hasilnya:
 🔹  Semua halaman di dalam /blog akan memiliki navigasi "Back to Blog".
 🔹  children berisi konten dari page.tsx yang sedang diakses.
+
+🎯 Kesimpulan
+✅ Nested route dibuat dengan struktur folder dalam app/.
+✅ File page.tsx digunakan untuk menampilkan halaman pada segmen tertentu.
+✅ Folder dengan [slug] digunakan untuk menangkap parameter dinamis dari URL.
+✅ layout.tsx dapat digunakan untuk memberikan layout khusus di segmen tertentu.
 #
